@@ -5,6 +5,7 @@
   "author": "Irfan858",
   "license": "MIT",
   "dependencies": {
+    "@prisma/client": "^6.5.0",
     "body-parser": "1.20.0",
     "cors": "2.8.5",
     "express": "^5.1.0",
@@ -13,5 +14,8 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "prisma": "5.13.0"
   }
 }
