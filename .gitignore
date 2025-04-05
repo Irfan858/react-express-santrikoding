@@ -1,0 +1,7 @@
+# Node.js dependencies
+backend-express/node_modules
+frontend-react/node_modules
+
+# yarn.lock file
+backend-express/yarn.lock
+frontend-react/yarn.lock
