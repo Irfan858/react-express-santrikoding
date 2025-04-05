@@ -5,6 +5,8 @@
   "author": "Irfan858",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "1.20.0",
+    "cors": "2.8.5",
     "express": "^5.1.0",
     "nodemon": "^3.1.9"
   },
